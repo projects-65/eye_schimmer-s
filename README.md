@@ -44,9 +44,9 @@ Make sure you have the following installed on your machine:
 
 ## Project Structure
 
-eye-health-assessment/ │
-    ├── templates/ │
-        ├── result.html # HTML file for showing the results and a random quote │ 
+eye-health-assessment/ 
+    ├── templates/ 
+        ├── result.html # HTML file for showing the results and a random quote
     ├── app.py # Main Flask server script
     ├── README.md # Instructions to set up and run the project 
     └── requirements.txt # Dependencies
